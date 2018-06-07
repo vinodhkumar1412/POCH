@@ -35,3 +35,6 @@ pip install django
 This will download and install the latest Django release.
 
 After the installation has completed, you can verify your Django installation by executing django-admin --version in the command prompt.
+
+
+*Note for Developers: All you need to do is create beautiful pages for the backend to flash upon into the world.
